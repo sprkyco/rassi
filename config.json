@@ -1,0 +1,6 @@
+{
+    "dbName":"DBNAME",
+    "clusterEndpoint":"DNS_ENDPOINT",
+    "passwordRotationLambdaArn":"MULTIUSERROTATIONLAMBDA",
+    "masterArn":"SUPERUSERSECRETTOUSEFORROTATION"
+}
